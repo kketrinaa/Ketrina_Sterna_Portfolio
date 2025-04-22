@@ -52,11 +52,20 @@ _**University:**_ Turiba University, Latvia<br>
 _**Graduation:**_ 2023
  
  ### 🏅 &nbsp;Certifications
- * [The Complete 2025 Software Testing Bootcamp](Ketrina_Sterna_The_Complete_2025_Software_Testing_Bootcamp.pdf) (2025)
- * [SQL Intermediate](Ketrina_Sterna_SQL_Certificate.pdf) (2024)
- * [Getting Started with Software Testing](Ketrina_Sterna_Software_Testing_Certificate.pdf) (2024)
+ * [_**The Complete 2025 Software Testing Bootcamp**_](Ketrina_Sterna_The_Complete_2025_Software_Testing_Bootcamp.pdf)<br>
+_**Issued by:**_ Udemy<br>
+_**Duration:**_ 37h<br>
+_**Year:**_ 2025<br>
 
-
+ * [_**SQL Intermediate**_](Ketrina_Sterna_SQL_Certificate.pdf)<br>
+ _**Issued by:**_ Sololearn<br>
+ _**Year**_ 2024
+ 
+ * [_**Getting Started with Software Testing**_](Ketrina_Sterna_Software_Testing_Certificate.pdf)<br>
+ _**Issued by:**_ LinkedIn Learning<br>
+ _**Duration:**_ 16h<br>
+_**Year:**_ 2024
+ 
 ### 🧩 &nbsp;My Work Samples
 * [Project 1 - Demoblaze](https://drive.google.com/drive/folders/116hzm2rJOmr7huOOZAKp3zepQ9mvstj6?usp=sharing)
 * [Project 2 - Magneto Store](https://drive.google.com/drive/folders/1AHMVN_yvKBwWJ7JK8me_wOqygKnnpHVe?usp=sharing)
