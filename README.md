@@ -11,7 +11,7 @@ Currently, I’m an intern at Accenture Baltics, focusing on test automation wit
 ### 🛠️ &nbsp;Tools and Frameworks
 * [Playwright](https://playwright.dev/) - Framework for automating tests across web browsers
 * [Postman](https://www.postman.com/) - API testing tool for manual and automated testing
-* Lighthouse - Tool for auditing website performance, accessibility, and best practices
+* [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) - Tool for auditing website performance, accessibility, and best practices
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools) - Browser tools for inspecting elements, debugging, and performance auditing
 * [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/) - Project management tools
 * [Slack](https://slack.com/intl/en-gb/) - Team messaging and collaboration platform
@@ -24,11 +24,11 @@ Currently, I’m an intern at Accenture Baltics, focusing on test automation wit
 
 ### 💻 &nbsp;Programming Languages
 * [TypeScript](https://www.typescriptlang.org/) - Used for automating tests with Playwright
-* JavaScript
-* Java
-* Python
-* SQL - For querying
-* HTML and CSS
+* [JavaScript](https://www.w3schools.com/js/)
+* [Java](https://www.java.com/en/)
+* [Python](https://www.python.org/)
+* [SQL](https://www.w3schools.com/sql/) - For querying
+* [HTML](https://www.w3schools.com/Html/) and [CSS](https://www.w3schools.com/css/)
 
 ### 🧠 &nbsp;QA Skills
 * [ISTQB Foundation Level](https://www.istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/) knowledge
