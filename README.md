@@ -1,7 +1,7 @@
 # Ketrīna's Portfolio
 
 ### 👋 &nbsp;About Me
-Hi, my name is Ketrīna.
+Hi, my name is Ketrīna. I’m a naturally curious person who enjoys learning by doing. I aim to make the most of every opportunity and grow into a valuable and contributing team member.
 
 [My LinkedIn](https://www.linkedin.com/in/ketrina-sterna/)
 
