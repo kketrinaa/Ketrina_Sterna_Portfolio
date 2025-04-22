@@ -53,7 +53,7 @@ _**Graduation:**_ 2023
  *
  
  ### 🏅 &nbsp;Certifications
- *
+ * [SQL Intermediate]()
  *
  *
 
