@@ -13,7 +13,7 @@ Hi, my name is Ketrīna.
 * [Jira](https://www.atlassian.com/software/jira) - For project management
 * [Github](https://github.com/) - For version control
 * [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML, CSS, TypeScript, JavaScript
-* [Postman](https://code.visualstudio.com/) - API testing
+* [Postman](https://www.postman.com/) - API testing
 * [PyCharm](https://www.jetbrains.com/pycharm/) - IDE for Python
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools) - 
