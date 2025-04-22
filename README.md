@@ -23,7 +23,7 @@ Currently, I’m an intern at Accenture Baltics, focusing on test automation wit
 * [Figma](https://www.figma.com/) - Used for UI prototyping
 
 ### 💻 &nbsp;Programming Languages
-* TypeScript - Used for automating tests with Playwright
+* [TypeScript](https://www.typescriptlang.org/) - Used for automating tests with Playwright
 * JavaScript
 * Java
 * Python
