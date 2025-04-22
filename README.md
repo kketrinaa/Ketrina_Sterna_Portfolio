@@ -53,7 +53,7 @@ _**Graduation:**_ 2023
  *
  
  ### 🏅 &nbsp;Certifications
- * [SQL Intermediate]()
+ * [SQL Intermediate](Ketrina_Sterna_SQL_Certificate.pdf)
  *
  *
 
