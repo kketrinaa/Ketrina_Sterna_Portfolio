@@ -24,11 +24,11 @@ Currently, I’m an intern at Accenture Baltics, focusing on test automation wit
 
 ### 💻 &nbsp;Programming Languages
 * [TypeScript](https://www.typescriptlang.org/) - Used for automating tests with Playwright
-* [JavaScript](https://www.w3schools.com/js/)
+* JavaScript
 * [Java](https://www.java.com/en/)
 * [Python](https://www.python.org/)
 * [SQL](https://www.w3schools.com/sql/) - For querying
-* [HTML](https://www.w3schools.com/Html/) and [CSS](https://www.w3schools.com/css/)
+* HTML and CSS
 
 ### 🧠 &nbsp;QA Skills
 * [ISTQB Foundation Level](https://www.istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/) knowledge
