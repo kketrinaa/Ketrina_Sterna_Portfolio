@@ -13,7 +13,7 @@ Hi, my name is Ketrīna.
 * [Postman](https://www.postman.com/) - API testing tool for manual and automated testing
 * Lighthouse - Tool for auditing website performance, accessibility, and best practices
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools) - Browser tools for inspecting elements, debugging, and performance auditing
-* [Jira](https://www.atlassian.com/software/jira) - Project and issue tracking tool
+* [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/) - Project management tools
 * [Slack](https://slack.com/intl/en-gb/) - Team messaging and collaboration platform
 * [Github](https://github.com/) - Platform for version control and collaboration
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editor used for practicing HTML and CSS
