@@ -9,12 +9,13 @@ Hi, my name is Ketrīna.
 ...
 
 ### 🛠️ &nbsp;Tools and Frameworks
-* [Playwright]() - Framework for automating browsers with support for multiple programming languages (TypeScript)
-* [Jira]() - For project management
-* [Github]() - For version control
-* [Visual Studio Code]() - practicing HTML, CSS, TypeScript, JavaScript
-* [Postman]() - API testing
-* [PyCharm]() - IDE for Python
+* [Playwright](https://playwright.dev/) - Framework for automating browsers with support for multiple programming languages (TypeScript)
+* [Jira](https://www.atlassian.com/software/jira) - For project management
+* [Github](https://github.com/) - For version control
+* [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML, CSS, TypeScript, JavaScript
+* [Postman](https://code.visualstudio.com/) - API testing
+* [PyCharm](https://www.jetbrains.com/pycharm/) - IDE for Python
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools) - 
 * Lighthouse - 
 
