@@ -23,7 +23,7 @@ Hi, my name is Ketrīna.
 * [Figma](https://www.figma.com/) - Used for UI prototyping
 
 ### 💻 &nbsp;Programming Languages
-* TypeScript - Used in Playwright
+* TypeScript - Used for automating tests with Playwright
 * JavaScript
 * Java
 * Python
@@ -31,9 +31,14 @@ Hi, my name is Ketrīna.
 * HTML and CSS
 
 ### 🧠 &nbsp;QA Skills
-*
-*
-*
+* ISTQB Foundation Level knowledge
+* Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
+* Automation Testing (TypeScript + Playwright)
+* Manual Testing
+* Creating and executing Test Cases
+* Creating Bug Reports
+* Scrum workflow
+* SQL queries
 
 ### 💬 &nbsp;Soft Skills
 * Attention to Detail
@@ -45,11 +50,6 @@ _**Bachelor’s Degree in Computer Systems**_<br>
 _**Qualification:**_ Software Engineering<br>
 _**University:**_ Turiba University, Latvia<br>
 _**Graduation:**_ 2023
-
- ### 📚 &nbsp;Courses
- *
- *
- *
  
  ### 🏅 &nbsp;Certifications
  * [The Complete 2025 Software Testing Bootcamp](Ketrina_Sterna_The_Complete_2025_Software_Testing_Bootcamp.pdf) (2025)
