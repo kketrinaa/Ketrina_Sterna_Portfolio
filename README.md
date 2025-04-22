@@ -56,10 +56,12 @@ _**Graduation:**_ 2023
  * [SQL Intermediate](Ketrina_Sterna_SQL_Certificate.pdf) (2024)
  * [Getting Started with Software Testing](Ketrina_Sterna_Software_Testing_Certificate.pdf) (2024)
 
+
 ### 🧩 &nbsp;My Work Samples
-*
-*
-*
+* [Project 1 - Demoblaze](https://drive.google.com/drive/folders/116hzm2rJOmr7huOOZAKp3zepQ9mvstj6?usp=sharing)
+* [Project 2 - Magneto Store](https://drive.google.com/drive/folders/1AHMVN_yvKBwWJ7JK8me_wOqygKnnpHVe?usp=sharing)
+* [Project 3 - Crochet App](https://drive.google.com/drive/folders/1Tg-JIU03bJuTtN2BYTC4n6K2KSqQf5TI?usp=sharing)
+* [Project 4 - Registration Page](https://drive.google.com/drive/folders/14sGiXC2A15yD6KftquScnmXDpJDjGlw3?usp=sharing)
  
 ### 🗣️ &nbsp;Languages
 * English (C1)
