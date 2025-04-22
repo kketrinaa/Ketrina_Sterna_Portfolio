@@ -1,46 +1,18 @@
 # Ketrīna Šterna - Portfolio
 
-## 👋 About me
+### :👋: About me
 Hi, my name is Ketrīna.
 
 [My LinkedIn](https://www.linkedin.com/in/ketrina-sterna/)
 
-## 💼 My experience
+### 💼 My experience
 Being a junior software tester at Perfect Gym is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
 
-## 🛠️ Tools and Frameworks
+### 🛠️ Tools and Frameworks
 
-## Tech skills
-* [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
+### QA skills
 
-| syntax and order of execution | comparison operators | logical operators | scalar functions                 | aggregation functions | others
-|:-----------------------------:|:--------------------:|:-----------------:|:--------------------------------:|:---------------------:|:-------:|
-| SELECT (*, LIKE, TOP)         |          =           | AND               | GETDATE                          | COUNT ()              | JOIN    |
-| FROM                          |         !=           |   BETWEEN         | UPPER                            | SUM ()                | AS      |
-| WHERE                         |         <>           |    IN             | LOWER                            | MIN ()                |  UNION  |
-| GROUP BY                      |          >           |    LIKE           | DATEDIFF (HOUR, MONTH, YEAR etc.)|                       |         |
-| ORDER BY (ASC, DESC)          |          <           |    NOT            |                                  |                       |         |
-|  UPDATE (SET)                 |         >=           |    OR             |                                  |                       |         |
-|    ALTER TABLE (ADD)          |         <=           |    IS NULL        |                                  |                       |         |
-|  INSERT INTO                  |         !<           |    IS NOT NULL    |                                  |                       |         |
-|                               |         !>           |                   |                                  |                       |         |
-
-* Rest API testing
-* [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) knowledge
-* Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
-* Software testing
-* Creating test cases
-* Reporting bugs
-* Creating bug reports
-* Basic [Python](https://www.python.org/) - for test automation
-* Basic HTML and CSS
-* Creating documentation
-* experience with testing SaaS web applications
-* performing smoke tests
-* testing UAT
-* scrum workflow
-
-### Soft skills :file_folder:
+### Soft skills
 * precision
 * communication
 * assertiveness
