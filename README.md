@@ -54,8 +54,8 @@ _**Graduation:**_ 2023
  
  ### 🏅 &nbsp;Certifications
  * [SQL Intermediate](Ketrina_Sterna_SQL_Certificate.pdf)
- *
- *
+ * [Getting Started With Software Testing]()
+ * 
 
 ### 🧩 &nbsp;My Work Samples
 *
