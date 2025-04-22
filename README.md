@@ -10,16 +10,16 @@ Hi, my name is Ketrīna.
 
 ### 🛠️ &nbsp;Tools and Frameworks
 * [Playwright](https://playwright.dev/) - Framework for automating tests across web browsers
-* [Jira](https://www.atlassian.com/software/jira) - Project and issue tracking tool
-* [Github](https://github.com/) - Platform for version control and collaboration
 * [Postman](https://www.postman.com/) - API testing tool for manual and automated testing
-* [Chrome DevTools](https://developer.chrome.com/docs/devtools) - Browser tools for inspecting elements, debugging, and performance auditing
 * Lighthouse - Tool for auditing website performance, accessibility, and best practices
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools) - Browser tools for inspecting elements, debugging, and performance auditing
+* [Jira](https://www.atlassian.com/software/jira) - Project and issue tracking tool
+* [Slack](https://slack.com/intl/en-gb/) - Team messaging and collaboration platform
+* [Github](https://github.com/) - Platform for version control and collaboration
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editor used for practicing HTML and CSS
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE primarily used for Java development
 * [PyCharm](https://www.jetbrains.com/pycharm/) - IDE for Python
 * [MySQL](https://www.mysql.com/) - Database management system
-* [Slack](https://slack.com/intl/en-gb/) - Team messaging and collaboration platform
 * [Figma](https://www.figma.com/) - Used for UI prototyping
 
 ### 💻 &nbsp;Programming Languages
