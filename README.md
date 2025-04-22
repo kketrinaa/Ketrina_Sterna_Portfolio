@@ -9,7 +9,7 @@ Hi, my name is Ketrīna.
 ...
 
 ### 🛠️ &nbsp;Tools and Frameworks
-* [Playwright]() - 
+* [Playwright]() - Framework for automating browsers with support for multiple programming languages (TypeScript)
 * [Jira]() - For project management
 * [Github]() - For version control
 * [Visual Studio Code]() - practicing HTML, CSS, TypeScript, JavaScript
@@ -17,6 +17,13 @@ Hi, my name is Ketrīna.
 * [PyCharm]() - IDE for Python
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools) - 
 * Lighthouse - 
+
+### 💻 &nbsp;Programming Languages
+* TypeScript - Used in Playwright
+* JavaScript
+* Java
+* Python
+* SQL - For querying
 
 ### 🧠 &nbsp;QA Skills
 *
