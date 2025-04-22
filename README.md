@@ -28,8 +28,7 @@ Hi, my name is Ketrīna.
 * Java
 * Python
 * SQL - For querying
-* Html
-* CSS
+* HTML and CSS
 
 ### 🧠 &nbsp;QA Skills
 *
