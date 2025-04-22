@@ -1,49 +1,54 @@
 # Ketrīna's Portfolio
 
-### 👋 About Me
+### 👋 &nbsp;About Me
 Hi, my name is Ketrīna.
 
 [My LinkedIn](https://www.linkedin.com/in/ketrina-sterna/)
 
-### My Experience
+### 💼 &nbsp;My Experience
 ...
 
-### 🛠️ Tools and Frameworks
+### 🛠️ &nbsp;Tools and Frameworks
+* [Playwright]() - 
+* [Jira]() - For project management
+* [Github]() - For version control
+* [Visual Studio Code]() - practicing HTML, CSS, TypeScript, JavaScript
+* [Postman]() - API testing
+* [PyCharm]() - IDE for Python
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools) - 
+* Lighthouse - 
+
+### 🧠 &nbsp;QA Skills
 *
 *
 *
 
-### 🧠 QA Skills
-*
-*
-*
+### 💬 &nbsp;Soft Skills
+* Attention to Detail
+* Collaboration & Teamwork
+* Adaptability
 
-### 💬 Soft Skills
-*
-*
-*
+### 🎓 &nbsp;Education
+_**Bachelor’s Degree in Computer Systems**_<br>
+_**Qualification:**_ Software Engineering<br>
+_**University:**_ Turiba University, Latvia<br>
+_**Graduation:**_ 2023
 
-### 🎓 Education
-Bachelor’s Degree in Computer Systems
- Qualification: Software Engineering
- Riga Technical University, Latvia
- Graduation: 2023
-
- ### Courses
+ ### 📚 &nbsp;Courses
  *
  *
  *
  
- ### Certifications
+ ### 🏅 &nbsp;Certifications
  *
  *
  *
 
-### 🧩 My Work Samples
+### 🧩 &nbsp;My Work Samples
 *
 *
 *
  
-### 🗣️ Languages
+### 🗣️ &nbsp;Languages
 * English (C1)
 * Latvian (native)
