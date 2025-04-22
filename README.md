@@ -31,7 +31,7 @@ Currently, I’m an intern at Accenture Baltics, focusing on test automation wit
 * HTML and CSS
 
 ### 🧠 &nbsp;QA Skills
-* ISTQB Foundation Level knowledge
+* [ISTQB Foundation Level](https://www.istqb.org/) knowledge
 * Basic knowledge about SDLC models (Waterfall, V-model, Agile)
 * Automation Testing (TypeScript + Playwright)
 * Manual Testing
