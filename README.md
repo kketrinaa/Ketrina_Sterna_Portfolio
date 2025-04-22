@@ -32,7 +32,7 @@ Hi, my name is Ketrīna.
 
 ### 🧠 &nbsp;QA Skills
 * ISTQB Foundation Level knowledge
-* Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
+* Basic knowledge about SDLC models (Waterfall, V-model, Agile)
 * Automation Testing (TypeScript + Playwright)
 * Manual Testing
 * Creating and executing Test Cases
