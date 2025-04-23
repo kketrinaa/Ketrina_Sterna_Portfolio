@@ -42,7 +42,10 @@ Recent Bachelor's graduate with a degree in Computer Systems and a qualification
 
 ### 💬 &nbsp;Soft Skills
 * Attention to Detail
+* Critical Thinking
 * Collaboration & Teamwork
+* Problem Solving
+* Time Management
 * Adaptability
 
 ### 🎓 &nbsp;Education
