@@ -44,7 +44,7 @@ Recent Bachelor's graduate with a degree in Computer Systems and a qualification
 * Attention to Detail
 * Critical Thinking
 * Collaboration & Teamwork
-* Problem Solving
+* Problem-Solving
 * Time Management
 * Adaptability
 
