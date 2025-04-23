@@ -46,9 +46,9 @@ Currently, I’m an intern at Accenture Baltics, focusing on test automation wit
 * Adaptability
 
 ### 🎓 &nbsp;Education
-*_**Test Automation Bootcamp**_ <br>
+* _**Test Automation Bootcamp**_ <br>
 _**Issued by:**_ Accenture Baltics<br>
-_**Duration:**_ 2 weeks (40h)
+_**Duration:**_ 2 weeks (40h)<br>
 _**Year:**_ 2025
 
 * _**ISTQB Foundation Level**_ <br>
