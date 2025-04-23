@@ -6,7 +6,7 @@ Hi, my name is Ketrīna. I’m a naturally curious person who enjoys learning by
 [My LinkedIn](https://www.linkedin.com/in/ketrina-sterna/)
 
 ### 💼 &nbsp;My Experience
-Recent Bachelor's graduate in Computer Systems with a qualification in Software Engineering. Currently, I’m an intern at Accenture Baltics, focusing on test automation with TypeScript and Playwright. I’m involved in creating and executing automated test scripts, identifying areas for improvement, and ensuring the software functions as expected across various platforms. Recent Bachelor's graduate in Computer Systems with a qualification in Software Engineering. Currently gaining practical experience as a Test Automation Intern at Accenture. Previous experience in software and web development, working with technologies like Python, JavaScript, and MySQL. I’m gaining hands-on experience with modern testing tools and frameworks, while continuously improving my problem-solving and technical skills in a real-world setting.
+Recent Bachelor's graduate in Computer Systems with a qualification in Software Engineering. Currently, I’m an intern at Accenture, focusing on test automation with TypeScript and Playwright. I’m involved in creating and executing automated test scripts, identifying areas for improvement, and ensuring the software functions as expected across various platforms. Previous experience in software and web development, working with technologies like Python, JavaScript, and MySQL.
 
 ### 🛠️ &nbsp;Tools and Frameworks
 * [Playwright](https://playwright.dev/) - Framework for automating tests across web browsers
