@@ -46,7 +46,11 @@ Currently, I’m an intern at Accenture Baltics, focusing on test automation wit
 * Adaptability
 
 ### 🎓 &nbsp;Education
-_**Bachelor’s Degree in Computer Systems**_<br>
+* _**ISTQB Foundation Level**_ <br>
+_**Issued by:**_ Riga Coding School, Latvia<br>
+_**Year:**_ 2024
+
+* _**Bachelor’s Degree in Computer Systems**_<br>
 _**Qualification:**_ Software Engineering<br>
 _**University:**_ Turiba University, Latvia<br>
 _**Graduation:**_ 2023
@@ -55,7 +59,7 @@ _**Graduation:**_ 2023
  * [_**The Complete 2025 Software Testing Bootcamp**_](Ketrina_Sterna_The_Complete_2025_Software_Testing_Bootcamp.pdf)<br>
 _**Issued by:**_ Udemy<br>
 _**Duration:**_ 37h<br>
-_**Year:**_ 2025<br>
+_**Year:**_ 2025
  
  * [_**Getting Started with Software Testing**_](Ketrina_Sterna_Software_Testing_Certificate.pdf)<br>
  _**Issued by:**_ LinkedIn Learning<br>
