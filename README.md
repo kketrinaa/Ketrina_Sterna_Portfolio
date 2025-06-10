@@ -86,5 +86,5 @@ _**Year:**_ 2024
 * [Project 5 - Demo Shop](https://drive.google.com/drive/folders/1UmiumNcoJ1k-QlBh1KCzVbHYmESfQprq?usp=drive_link)
  
 ### 🗣️ &nbsp;Languages
-* English (C1)
+* English (C2)
 * Latvian (native)
